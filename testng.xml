@@ -1,0 +1,9 @@
+
+<suite name="SDET_Assignment">
+<packages>
+<package name="script">
+</package>
+</packages>
+  <test name="Test">
+  </test> 
+</suite> 
